@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.1019.0",
+    "@aws-sdk/util-dynamodb": "^3.996.2",
     "node-telegram-bot-api": "^0.66.0"
   },
   "devDependencies": {
